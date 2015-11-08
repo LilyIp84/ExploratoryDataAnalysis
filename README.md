@@ -1,4 +1,4 @@
-# ExploratoryDataAnalysis
+# ExploratoryDataAnalysis - Project 1
 ## Introduction
 
 This assignment uses data from
